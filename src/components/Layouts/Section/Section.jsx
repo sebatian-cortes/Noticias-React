@@ -1,8 +1,8 @@
 import React from 'react'
 
-export const Section = ({ children }) => {
+export const Section = ({ children, style }) => {
     return (
-        <section className='bg-violet-400 border-slate-900 w-6/12 max-h flex justify-center'>
+        <section className={style}>
             {children}
         </section>
     )

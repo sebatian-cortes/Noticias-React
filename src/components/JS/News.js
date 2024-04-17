@@ -4,12 +4,6 @@ import new3 from '../../assets/USA2.png'
 import new4 from '../../assets/Gimnasia.png'
 
 export const News = [
-    {
-        id:1 ,
-        img:new1 ,
-        date:'17/04/2024',
-        description:'La Ceremonia de Apertura de los Juegos Olímpicos de París 2024 tendrá lugar dentro de exactamente 100 días (el 26 de julio)'
-    },
 
     {
         id:2 ,
@@ -29,7 +23,7 @@ export const News = [
         id:4 ,
         img:new4 ,
         date:'12/04/2024' ,
-        description:'La gimnasia artística latinoamericana mira hacia el futuro con ilusión. A menos de cinco meses para los Juegos Olímpicos de París 2024, algunos de los nuevos talentos y otros gimnastas más veteranos se afirman en el panorama internacional con sus actuaciones en la Copa del Mundo y mantienen viva la esperanza de obtener una cuota olímpica para los Juegos Olímpicos de este verano.'
+        description:'La gimnasia artística latinoamericana mira hacia el futuro con ilusión. A menos de cinco meses para los Juegos Olímpicos de París 2024.'
     }
 
 ]
