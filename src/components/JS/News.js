@@ -16,7 +16,7 @@ export const News = [
         id:3 ,
         img:new3 ,
         date:'17/03/2024' ,
-        description:'El equipo de Estados Unidos de baloncesto confirmó este miércoles 17 de abril la nómina de 12 jugadores que competirán en los Juegos Olímpicos de París 2024, entre los que se destacan LeBron James y Kevin Durant, dos de los máximos referentes del seleccionado.'
+        description:'El equipo de Estados Unidos de baloncesto confirmó este miércoles 17 de abril la nómina de 12 jugadores que competirán en los Juegos Olímpicos de París 2024, entre los que se destacan LeBron James y Kevin Durant, dos de los máximos referentes.'
     },
 
     {
