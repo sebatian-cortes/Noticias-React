@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Main = ({children}) => {
   return (
-    <main className='max-h w-full bg-gray-600 flex items-center justify-center'>
+    <main className='h-3/4 w-3/4 bg-[#020C2A] rounded-2xl'>
       {children}
     </main>
   )
